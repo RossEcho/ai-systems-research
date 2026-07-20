@@ -96,6 +96,8 @@ The company evaluates what deserves to survive.
 This connects directly to an idea I previously explored in:
 
 [**Beyond Monolithic Agents: Designing a Self Learning AI Society**](https://www.linkedin.com/pulse/beyond-monolithic-agents-designing-self-learning-ai-society-masyukov-61pgf?utm_source=share&utm_medium=member_android&utm_campaign=share_via)
+[**Beyond Monolithic Agents: Designing a Self-Learning AI Society**](./beyond-monolithic-agents.md).
+
 
 In that article, I questioned the assumption that we already know the optimal structure for an AI organization.
 
