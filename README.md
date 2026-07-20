@@ -8,17 +8,13 @@ The articles are written as attempts to map those structures, test assumptions a
 
 ## Articles
 
-### [Beyond Software Distribution](./articles/beyond-software-distribution.md)
+### Beyond Software Distribution
 
 A proposal for distributing behavioral specifications instead of fixed applications, allowing trusted local models to construct, optimize and evolve software for each environment.
 
 ### Beyond Monolithic Agents: Designing a Self Learning AI Society
 
 An exploration of AI systems that test and evolve their own organizational structures instead of operating through one permanently designed orchestration model.
-
-Markdown version coming soon.
-
-[Read the original article on LinkedIn](https://www.linkedin.com/pulse/beyond-monolithic-agents-designing-self-learning-ai-society-masyukov-61pgf)
 
 ## Topics
 
@@ -28,7 +24,7 @@ Artificial intelligence, agentic systems, AI societies, software architecture, l
 
 Markdown keeps the articles portable, searchable and easy to process.
 
-You can read them directly, reference them in other work, or give the file or repository link to a model for summarization, criticism or further discussion.
+They can be read directly, referenced in other work, or provided to a model for summarization, criticism or further discussion.
 
 ## Author
 
